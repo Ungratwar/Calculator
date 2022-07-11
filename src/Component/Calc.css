@@ -1,0 +1,48 @@
+
+@import url('http://fonts.cdnfonts.com/css/led-digital-7');
+
+.mainContainer{
+    background-color: black;
+    width: 500px;
+    height: 550px;
+    margin: 0 auto;
+    border-radius: 20px;
+   
+    
+  }
+  .calculator{
+    width: 350px;
+    margin: 100px auto;
+    padding: 49px;
+  }
+  #screen{
+    background-color: rgb(228, 223, 223);
+    padding: 10px;
+    font-size: 35px;
+    font-family: 'LED Digital 7', sans-serif;
+    width: 330px;
+    height: 45px;
+    text-align: right;
+    border: 3px solid black;
+  }
+  .button{
+    background-color: grey;
+    height: 80px;
+    width: 80px;
+    color: white;
+    border-radius: 10px ;
+    font-size: 42px;
+    float: left;
+    margin-top: 10px;
+    margin: 5px;
+    box-shadow: -5px 1px 2px 1px rgb(75, 74, 74);
+    border: none;
+  
+  }
+  .red{
+    background-color: rgb(255, 0, 0);
+    box-shadow: -5px 1px 2px 1px rgb(87, 4, 4);
+  }
+  .btnContainer{
+    width: 400px;
+  }
